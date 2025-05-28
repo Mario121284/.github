@@ -27,13 +27,13 @@ I'm always looking for ways to combine business goals with data-driven strategie
 ## 📂 Featured Projects
 
 - [CMS Hospital Dashboard (Healthcare KPI)](https://github.com/Mario121284/cms-healthcare-dashboard)  
-  → Analyzed national-level hospital performance and regional gaps in quality using Tableau
+  → Analyzed national-level hospital performance and regional gaps in quality using Tableau.
 
-- [Worldwide COVID Dashboard]((https://github.com/Mario121284/Covid_Findings))  
-  → Combined SQL + Tableau to identify vaccination and death rate trends globally
+- [Worldwide COVID Dashboard](https://github.com/Mario121284/Covid_Findings)  
+  → Combined SQL and Tableau to identify vaccination trends, death rates, and regional disparities.
 
-- [Digital Campaign Optimization Capstone] (https://github.com/Mario121284/capstone-campaign-optimization)  
-  → Analyzed marketing performance to optimize creative messaging and media budget
+- [Digital Campaign Optimization Capstone](https://github.com/Mario121284/capstone-campaign-optimization)  
+  → Analyzed marketing performance using CPA/CPC metrics to optimize creative messaging and budget allocation.
 
 ---
 
